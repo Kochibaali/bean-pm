@@ -27,6 +27,7 @@ telegraph
 PyPDF2
 ujson
 pyshorteners
+dnspython==2.3.0
 countryinfo
 datetime
 pytz
